@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>91140316826-3bcg20o63qsbj6ettq9miqqbbn3dt40k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.91140316826-3bcg20o63qsbj6ettq9miqqbbn3dt40k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBfjMTag-lfjAvXLmT-TTT_0eX5shcnjpA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>91140316826</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Hellosamet.DemoMobilProje</string>
+	<key>PROJECT_ID</key>
+	<string>demomobilproje</string>
+	<key>STORAGE_BUCKET</key>
+	<string>demomobilproje.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:91140316826:ios:3c83310482fe105a9f4923</string>
+</dict>
+</plist>
